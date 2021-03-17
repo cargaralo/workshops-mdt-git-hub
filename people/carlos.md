@@ -1,0 +1,1 @@
+Hello how are you? = Hola como estas?
